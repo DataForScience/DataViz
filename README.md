@@ -1,10 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/DataViz/master)
-
 # Data Visualization With Matplotlib and Seaborn
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/viz by Data For Science.
-
-### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/DataViz/master)
 
 As David McCandless famously said “Information Visualization is a form of knowledge compression”. In particular, it is a way of compressing information in a visual way that can be easily and correctly interpreted by the visual system in our brains.
 
