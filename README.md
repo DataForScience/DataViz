@@ -1,3 +1,12 @@
+![GitHub](https://img.shields.io/github/license/DataForScience/DataViz)
+[![Twitter @data4sci](https://img.shields.io/twitter/follow/data4sci)](https://twitter.com/intent/follow?screen_name=data4sci)
+![GitHub top language](https://img.shields.io/github/languages/top/DataForScience/DataViz)
+![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/DataViz)
+![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/DataViz)
+
+[![Graphs For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
+[![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4sci.ck.page/8a51c452bc)
+
 # Data Visualization With Matplotlib and Seaborn
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/viz by Data For Science.
