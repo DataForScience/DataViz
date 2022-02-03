@@ -5,7 +5,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/DataViz)
 
 [![Graphs For Science](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
+[![Visualization For Science](https://img.shields.io/badge/Visualization_For_Science-Subscribe-blue)](https://viz4sci.substack.com/)
 [![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4sci.ck.page/8a51c452bc)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/DataViz/master)
 
 # Data Visualization With Matplotlib and Seaborn
 
